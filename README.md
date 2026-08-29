@@ -89,11 +89,11 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/tanu91112/TaskMate---AI-powered-document-automation.git
    cd TaskMate---AI-powered-document-automation
 
-# Windows
+## Windows
 python -m venv venv
 venv\Scripts\activate
 
-# macOS/Linux
+## macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
